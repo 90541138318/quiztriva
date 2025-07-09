@@ -1,7 +1,7 @@
 {
-  "name": "quiz-app",
-  "version": "0.0.0",
-  "homepage": "https://github.com/90541138318/quiz-triva.git",
+  "name": "quiztriva",
+  "version": "0.0.1",
+  "homepage": "https://90541138318.github.io/quiztriva",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
